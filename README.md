@@ -5,9 +5,9 @@
 - 🌱 I'm learning advanced C#, Data Structure & Algorithm myself since 2019.
 - 👄 I'm a bilingual speaker of 🇹🇭/🇬🇧	. I'm learning to speak 🇫🇮 / 🇪🇪 / 🇪🇸	
 
-🪅🎮 I love to play and make casual and colorful games such as 🧸 escape rooms, 🧩 puzzles, sorting and merging objects. 
-🎮🎮 You name it!
-🏳️‍🌈💓 I love learning languages to reduce language and cultural barriers and connect to people worldwide.
+- 🪅🎮 I love to play and make casual and colorful games such as 🧸 escape rooms, 🧩 puzzles, sorting and merging objects. 
+- 🎮🎮 You name it!
+- 🏳️‍🌈💓 I love learning languages to reduce language and cultural barriers and connect to people worldwide.
 
 📫 For job offer, please visit https://www.linkedin.com/in/aliciagamedev/ 
 
