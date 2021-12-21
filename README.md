@@ -30,7 +30,7 @@
 
 ### Harrastukset: Rakastan...
 - 🪅🎮 Rakastan pelata ja luoda rentoja ja värikkäitä pelejä: 🧸 pakohuoneet, 🧩 arvoituksia, esineiden lajittelu ja yhdistäminen. 
-- 🏳️‍🌈💓 Rakastan kielten oppimista kielimuurien ja kulttuuristen esteiden vähentämiseksi. and connect to people worldwide.
+- 🏳️‍🌈💓 Rakastan kielten oppimista kielimuurien ja kulttuuristen esteiden vähentämiseksi.
 - 🤝🙏 Rakastan yhteydenpitoa ihmisten kanssa ympäri maailmaa.
 
 ## Yhteyttä muun
