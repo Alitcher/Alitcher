@@ -17,6 +17,8 @@
 ## Contact Me
 📫 For job offer, please visit [Alicia's LinkedIn](https://www.linkedin.com/in/aliciagamedev/) 
 
+---
+
 # Suomi FI
 ### Musta niin: Mä oon...
 - 👋 Moro! 
