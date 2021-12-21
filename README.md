@@ -9,13 +9,13 @@
 ## Interests: I am interested in...
 - 👀 I'm interested in working in multicultural and multinational companies.
 
-## Hobbies
+## Hobbies: I love...
 - 🪅🎮 I love to play and make casual and colorful games such as 🧸 escape rooms, 🧩 puzzles, sorting and merging objects. 
 - 🎮🎮 You name it!
 - 🏳️‍🌈💓 I love learning languages to reduce language and cultural barriers and connect to people worldwide.
 
 ## Contact Me
-📫 For job offer, please visit https://www.linkedin.com/in/aliciagamedev/ 
+📫 For job offer, please visit [LinkedIn](https://www.linkedin.com/in/aliciagamedev/) 
 
 # Suomi FI
 ## Musta niin: Mä oon...
@@ -34,7 +34,7 @@
 - Rakastan yhteydenpitoa ihmisten kanssa ympäri maailmaa.
 
 ## Yhteyttä muun
-📫 Tarjoamaan mulle työtä, vieraile https://www.linkedin.com/in/aliciagamedev/
+📫 Tarjoamaan mulle työtä, vieraile [LinkedIn](https://www.linkedin.com/in/aliciagamedev/)
 
 <!---
 Alitcher/Alitcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
