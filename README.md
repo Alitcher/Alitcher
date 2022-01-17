@@ -21,7 +21,7 @@
 
 # Suomi FI
 ### Musta niin: Mä oon...
-- 👋 Moro! 
+- 👋 Moikka kaikkille! 
 - 👩‍💻 Mä oon Alicia - aka Alitcher/ Alice Alitch Studiosta.
 - 🎮 Mä oon itseoppinut Unity3D:n ja C#:n peliohjelmoija. Se on nyt ammattini!
 - 👄 Mä oon kaksikielinen 🇹🇭/🇬🇧. Ja opiskelen puhumaan 🇫🇮 / 🇪🇪 / 🇪🇸	
