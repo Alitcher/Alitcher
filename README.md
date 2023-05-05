@@ -4,7 +4,7 @@
 - 👩‍💻 I'm Alicia - aka Alitcher/ Alice from Alitch Studio.
 - 🎮 I'm a self-taught Unity3D developer && C# Developer. It is now my job!
 - 🌱 I'm learning advanced C#, Data Structure & Algorithm myself since 2019.
-- 👄 I'm a bilingual speaker of 🇹🇭/🇬🇧	. I'm learning to speak 🇫🇮 / 🇪🇪 / 🇪🇸	
+- 👄 I'm a bilingual speaker of 🇹🇭/🇬🇧	. I'm learning to speak 🇫🇮 🇪🇪 	
 
 ### Interests: I am interested in...
 - 👀 I'm interested in working in multicultural and multinational companies.
@@ -24,7 +24,7 @@
 - 👋 Moikka kaikkille! 
 - 👩‍💻 Mä oon Alicia - aka Alitcher/ Alice Alitch Studiosta.
 - 🎮 Mä oon itseoppinut Unity3D:n ja C#:n peliohjelmoija. Se on nyt ammattini!
-- 👄 Mä oon kaksikielinen 🇹🇭/🇬🇧. Ja opiskelen puhumaan 🇫🇮 / 🇪🇪 / 🇪🇸	
+- 👄 Mä oon kaksikielinen 🇹🇭/🇬🇧. Ja opiskelen puhumaan 🇫🇮 ja 🇪🇪
 - 🌱 Mä oon opiskellut edistyksellistä C#:a, tietorakennetta ja algoritmeja itse vuodesta 2019 lähtien.
 
 ### Kiinnostuksen kohteitani: Olen kiinnostunut...
