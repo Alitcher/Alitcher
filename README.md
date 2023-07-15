@@ -1,4 +1,4 @@
-A software developer specialized in C++, C#, Unity3D and .NET, backed up with a strong background in Computer Science.
+#### A software developer coding daily in C++, C#, Unity3D and .NET.
 
 ## Skill Set 🧰
 
