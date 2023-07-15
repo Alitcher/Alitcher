@@ -7,23 +7,37 @@ I'm a software developer specialized in C++, C#, Unity3D and .NET, backed up wit
 <table>
   <thead>
     <tr>
-      <th>Programming Languages</th>
-      <th>Frameworks/Libraries</th>
-      <th>Database Systems</th>
-      <th>Supplementary Technologies</th>
-      <th>Tools</th>
-      <th>Concepts</th>
-      <th>Language Proficiency</th>
+      <th>Category</th>
+      <th>Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>🚀 Programming Languages</td>
       <td>C++, C, Python, C#, SQL, HTML</td>
+    </tr>
+    <tr>
+      <td>📚 Frameworks/Libraries</td>
       <td>OpenGL, OpenCL, .NET Framework, gRPC, Unity, LINQ</td>
+    </tr>
+    <tr>
+      <td>💾 Database Systems</td>
       <td>MySQL, NoSQL</td>
+    </tr>
+    <tr>
+      <td>🧩 Supplementary Technologies</td>
       <td>Git, Game Theory, Computer Graphics, Cloud Computing, Computer Networking, Distributed Systems, Algorithms, Game Development, Parallel Computing</td>
+    </tr>
+    <tr>
+      <td>🔧 Tools</td>
       <td>PostgreSQL, MongoDB, VS Code, Unity3D, UE5</td>
+    </tr>
+    <tr>
+      <td>💡 Concepts</td>
       <td>Object-Oriented Programming (OOP), Concurrent Engineering, Software Development</td>
+    </tr>
+    <tr>
+      <td>🗣️ Language Proficiency</td>
       <td>English (C1), Finnish (A2), Estonian (A1)</td>
     </tr>
   </tbody>
