@@ -4,7 +4,7 @@ A software developer specialized in C++, C#, Unity3D and .NET, backed up with a 
 
 <table>
   <thead>
-    <tr bgcolor="#FFB6C1">
+    <tr bgcolor="#FFF0F5">
       <th>Category</th>
       <th>Skills</th>
     </tr>
