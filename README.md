@@ -1,6 +1,4 @@
-# Hello, I'm Alicia 👋
-
-I'm a software developer specialized in C++, C#, Unity3D and .NET, backed up with a strong background in Computer Science.
+A software developer specialized in C++, C#, Unity3D and .NET, backed up with a strong background in Computer Science.
 
 ## Skill Set 🧰
 
@@ -38,7 +36,7 @@ I'm a software developer specialized in C++, C#, Unity3D and .NET, backed up wit
     </tr>
     <tr>
       <td>🗣️ Language Proficiency</td>
-      <td>English (C1), Finnish (A2), Estonian (A1)</td>
+      <td> 🇺🇸 English (C1), 🇫🇮 Finnish (A2), 🇪🇪 Estonian (A1)</td>
     </tr>
   </tbody>
 </table>
