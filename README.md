@@ -1,24 +1,36 @@
-# Greetings, I am [Your Name] 👋
+# Hello, I'm Alicia 👋
 
-I am a competent software developer with a specialization in C++, C#, Unity3D and .NET, complimented by a background in Computer Science.
+I'm a software developer specialized in C++, C#, Unity3D and .NET, backed up with a strong background in Computer Science.
 
 ## Skill Set 🧰
 
-- **Programming Languages**: C++, C, Python, C#, SQL, HTML
-- **Frameworks/Libraries**: OpenGL, OpenCL, .NET Framework, gRPC, Unity, LINQ
-- **Database Systems**: MySQL, NoSQL
-- **Supplementary Technologies**: Git, Game Theory, Computer Graphics, Cloud Computing, Computer Networking, Distributed Systems, Algorithms, Game Development, Parallel Computing
-- **Tools**: PostgreSQL, MongoDB, VS Code
-- **Conceptual Understanding**: Object-Oriented Programming (OOP), Concurrent Engineering, Software Development
-- **Language Proficiency**: English (C1), Estonian (A1), Finnish (A2)
-
+<table>
+  <thead>
+    <tr>
+      <th>Programming Languages</th>
+      <th>Frameworks/Libraries</th>
+      <th>Database Systems</th>
+      <th>Supplementary Technologies</th>
+      <th>Tools</th>
+      <th>Concepts</th>
+      <th>Language Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C++, C, Python, C#, SQL, HTML</td>
+      <td>OpenGL, OpenCL, .NET Framework, gRPC, Unity, LINQ</td>
+      <td>MySQL, NoSQL</td>
+      <td>Git, Game Theory, Computer Graphics, Cloud Computing, Computer Networking, Distributed Systems, Algorithms, Game Development, Parallel Computing</td>
+      <td>PostgreSQL, MongoDB, VS Code, Unity3D, UE5</td>
+      <td>Object-Oriented Programming (OOP), Concurrent Engineering, Software Development</td>
+      <td>English (C1), Finnish (A2), Estonian (A1)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Contact Me
-📫 For job offer, please visit [Alicia's LinkedIn](https://www.linkedin.com/in/aliciagamedev/) 
+📫 For job offers, you can reach me through [my LinkedIn](https://www.linkedin.com/in/aliciagamedev/)
 
 ## Open for Collaboration 
-I welcome opportunities for collaboration on intriguing projects. Feel free to reach out to me.
-<!---
-Alitcher/Alitcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am always excited about intriguing collaboration opportunities. Feel free to reach out to me.
